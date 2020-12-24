@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-calendar-notice/static/css/main.ab7136cd.chunk.css",
+    "main.js": "/react-calendar-notice/static/js/main.c73176cf.chunk.js",
+    "main.js.map": "/react-calendar-notice/static/js/main.c73176cf.chunk.js.map",
+    "runtime-main.js": "/react-calendar-notice/static/js/runtime-main.19470502.js",
+    "runtime-main.js.map": "/react-calendar-notice/static/js/runtime-main.19470502.js.map",
+    "static/js/2.a0fcd8b4.chunk.js": "/react-calendar-notice/static/js/2.a0fcd8b4.chunk.js",
+    "static/js/2.a0fcd8b4.chunk.js.map": "/react-calendar-notice/static/js/2.a0fcd8b4.chunk.js.map",
+    "static/js/3.26f469ab.chunk.js": "/react-calendar-notice/static/js/3.26f469ab.chunk.js",
+    "static/js/3.26f469ab.chunk.js.map": "/react-calendar-notice/static/js/3.26f469ab.chunk.js.map",
+    "index.html": "/react-calendar-notice/index.html",
+    "static/css/main.ab7136cd.chunk.css.map": "/react-calendar-notice/static/css/main.ab7136cd.chunk.css.map",
+    "static/js/2.a0fcd8b4.chunk.js.LICENSE.txt": "/react-calendar-notice/static/js/2.a0fcd8b4.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/react-calendar-notice/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.19470502.js",
+    "static/js/2.a0fcd8b4.chunk.js",
+    "static/css/main.ab7136cd.chunk.css",
+    "static/js/main.c73176cf.chunk.js"
+  ]
+}
